@@ -557,6 +557,7 @@ Components and native modules.
 * [react-native-phone-picker ★58](https://github.com/Spikef/react-native-phone-picker) - a quick phone picker control
 * [react-native-infinite-scrollview ★58](https://github.com/baspellis/react-native-infinite-scrollview) - ScrollView with infinite paged scrolling (no looping)
 * [react-native-select-multiple  ★58](https://github.com/tableflip/react-native-select-multiple) -A simple and easy to use component for multiple selection of item from List.
+* [react-native-select-options-search  ★08](https://github.com/structlooper/react-native-select-options-search) -Effortlessly manage large datasets with seamless search and lazy-loading for efficient option selection in React Native.
 * [react-native-easy-content-loader ★57](https://github.com/sarmad1995/react-native-easy-content-loader) - React-Native light weight skeleton content loading.
 * [react-native-multiple-choice ★57](https://github.com/d-a-n/react-native-multiple-choice) - A cross-platform (iOS / Android) single and multiple-choice React Native component.
 * [k-react-native-swipe-unlocker ★55](https://github.com/leowang721/k-react-native-swipe-unlocker) - A simple swipe unlock for React Native
